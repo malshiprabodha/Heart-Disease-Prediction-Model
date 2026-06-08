@@ -107,8 +107,8 @@ Heart Disease Prediction/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone https://github.com/malshiprabodha/Heart-Disease-Prediction-Model.git
+cd Heart-Disease-Prediction-Model
 ```
 
 ### Install Dependencies
