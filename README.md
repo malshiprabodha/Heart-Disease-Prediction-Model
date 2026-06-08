@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System
+# Heart Disease Prediction System
 
 <img src="Image.png" width="800">
 
@@ -121,6 +121,11 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+```
+## 🌐 Live Demo
+
+```text
+https://malshiprabodha-heart-disease-prediction-model-app-q2rwdg.streamlit.app/
 ```
 
 
